@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font: 24px  sans-serif;
+}
+
+h1 {
+    color: #123456;
+}
+
+p{
+    color: #000;
+    font-weight: bold;
+}
